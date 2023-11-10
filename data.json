@@ -819,6 +819,7 @@
       "A green bird darting in the night.",
       "Will you be able to see it?",
       "Will you be able to catch it?",
+      "Cling to Tao like a shadow.",
       "Move without a shadow."
     ],
     "chapterContent": [
@@ -1308,8 +1309,11 @@
     "chapterTitle": "Funeral",
     "chapterQuote": [
       "Hearse of weathered black enamel,",
+      "Undertakers fingering cigarettes.",
       "Family, some crying, some bored,",
-      "Hired marching band out of tune."
+      "Some only thinking of themselves",
+      "Hired marching band out of tune.",
+      "Even in death we find no accord."
     ],
     "chapterContent": [
       "If you look closely at a dead person, can you truly see a soul? Is there anything left of the person that you knew? No. There is only a corpse, one that doesn’t even look familiar; whatever animates people is gone. Have they flown to heaven? Have they gone into some cycle of transmigration? I don’t know. Theories about what happens after death can only be conjecture.",
@@ -1394,7 +1398,10 @@
   "97": {
     "chapterNumber": "97",
     "chapterTitle": "Encouragement",
-    "chapterQuote": [],
+    "chapterQuote": [
+      "One thousand miles from home, I open the same prayer book.",
+      "Some nights it was only obligation; tonight, it is comfort."
+    ],
     "chapterContent": [
       "It’s best to be patient and persevering. Devotion may sometimes seem to be pure drudgery. Away from home, it’s possible to gain a new outlook. Taken from its usual context, our commitment can stand out all the more brilliantly. Something that may have become like a bit and bridle may now be warm and comforting. That is why one should master one’s emotions, and use discipline to even out the ups and downs of impulse.",
       "When traveling, we are away from our usual surroundings, including those elements that suppress and restrict us. Nearly all of us have fears, frustrations, and inhibitions that we have acquired in the past; time and distance help us to assess them more clearly. To overcome them takes courage and initiative. How can we do it if our very problem is fear and timidity? That is when we need a friend to help and encourage us. They can give us the guidance and support to face our fears. Although they can neither live our lives nor solve our problems outright, they can provide an invaluable presence just when we most need it.",
@@ -1448,7 +1455,11 @@
   "101": {
     "chapterNumber": "101",
     "chapterTitle": "Concentration",
-    "chapterQuote": [],
+    "chapterQuote": [
+      "Imagination, song, the soaring spirit.",
+      "Separate them to know them as aspects of the whole,",
+      "Join them to know the mystery of totality."
+    ],
     "chapterContent": [
       "The mind, if focused, can become the most powerful force we know. Yet for most of us, we are lost in the vastness of our own uncharted minds. We play around with different aspects, find certain modes that we can get by with, and leave the rest unexplored. Those who follow Tao do not do this. They want to explore all the dimensions of the mind so that they may find a wholly integral mode of consciousness.",
       "The primary means of exploration is through concentration of the mind. Practitioners first select an aspect and delve into it by daily focus. Only when they have fully understood do they go on. It is like studying. When you are first introduced to a subject, you must put your attention to work in order to master the knowledge. Such concentration leads to absorption, like mixing liquids together in a bottle: Once they are combined, they cannot be distinguished from one another.",
@@ -1522,7 +1533,12 @@
   "106": {
     "chapterNumber": "106",
     "chapterTitle": "Carefree",
-    "chapterQuote": [],
+    "chapterQuote": [
+      "Two ducks nestled in lake-side grass.",
+      "Both marked by the same brilliant purple at the wing.",
+      "Water provides food, bath, and play,",
+      "What need do they have for scholarship?"
+    ],
     "chapterContent": [
       "Animals need no schooling. They are perfect, without any need for long instruction. They know what to do by instinct and example. Tao is always there for them. It sustains them and nurtures them. There is no need for them to be specially aware of Tao or to study it: They have no rational consciousness to separate them from Tao.",
       "It is only humanity that constantly divorces itself from Tao. We therefore need methods of reintegration. If we could go beyond the interfering sense of the self, then we would know Tao in as constant and carefree a manner as ducks.",
@@ -1967,7 +1983,8 @@
     "chapterQuote": [
       "A warrior takes every person as an adversary.",
       "He sees all their vulnerable points,",
-      "And trains to eliminate his own."
+      "And trains to eliminate his own.",
+      "A sage has no vulnerable points."
     ],
     "chapterContent": [
       "A warrior takes everyone as a potential adversary. He assesses each person that he meets for their strengths and weaknesses, and he places himself strategically. No confrontation is ever a surprise. Protection, competition, honor, and righteousness are his principles.",
@@ -2094,7 +2111,18 @@
   "146": {
     "chapterNumber": "146",
     "chapterTitle": "Insignificance",
-    "chapterQuote": [],
+    "chapterQuote": [
+      "Spasms of molten rock",
+      "Piled a cone three miles high.",
+      "Rain and wind split a hundred towering fingers.",
+      "In time, trees strove for leverage in the fissures.",
+      "After a million years, condors and snakes took up residence.",
+      "Mighty rock, carved walls adorned with",
+      "Chartreuse and vermillion lichen—",
+      "Man yet more puny on those stones.",
+      "How long will it take to see Tao?",
+      "Until you no longer hold self-importance."
+    ],
     "chapterContent": [
       "Compared to the massive movements of heaven and earth, compared to the immensity of geologic time, the greatest acts of humanity and their monuments are beneath significance. We climb the highest mountains, we dive to the depths of the sea, we fling ourselves as close to the sun as we dare, and we are not even on the scale of nature’s measure. In our egotism and our view of ourselves as the center of the universe, we imagine that our lives have some meaning and importance when placed beside the stars and mountains and rivers. They do not. We cannot hope to have any true meaning in the history of the universe. But we can know it better, we can be a better part of it.",
       "If you want to know the force that keeps the sky blue, the stars burning, the mountains high and still, the rivers running, and the oceans flowing, then remove the veil that stands between you and Tao."
@@ -2181,10 +2209,13 @@
     "chapterQuote": [
       "Sleep is like a swift train",
       "Plunging into long black tunnels,",
+      "Slicing day with red and black light.",
       "No worry about the skeleton engineer.",
       "Head to pillow is like head to track,",
+      "Listening to the rumble of destiny,",
       "Knowing that the opening will come.",
-      "In sleep, as in the tunnels,"
+      "In sleep, as in the tunnels,",
+      "The sound seems ever closer."
     ],
     "chapterContent": [
       "When you sleep, some insist that the world as you know it ceases to exist. The world exists because something inside of you asserts that it is so. When awake, are you then no longer dreaming? Or are you just dreaming another dream?",
@@ -2306,7 +2337,10 @@
     "chapterQuote": [
       "The voices of ghosts are so familiar,",
       "They whisper to me every day.",
-      "I vacillate between superstition and tradition."
+      "You, so young and rich,",
+      "Make assumptions with absolute assurance.",
+      "I vacillate between superstition and tradition.",
+      "You don’t need to question."
     ],
     "chapterContent": [
       "Tradition is the oral delivery of rites and customs from generation to generation. Superstition is belief inconsistent with what society generally considers true and rational. When tradition and superstition become bound together, it is a sign of trouble. For example, a woman was once taught not to wash her hair on anybody’s birthday. Whenever she protested this, the answer was “Don’t question!” Years later, she learned that in the old country, letting one’s hair down was a sign of mourning and thus inauspicious on a birthday. What was etiquette in one generation became superstition in another.",
@@ -2389,7 +2423,12 @@
   "166": {
     "chapterNumber": "166",
     "chapterTitle": "Totality",
-    "chapterQuote": [],
+    "chapterQuote": [
+      "Those who consider their path superior are condescending.",
+      "A parrot who speaks of the totality of the self is absurd.",
+      "Many paths lead to the summit,",
+      "But it takes a whole body to get there."
+    ],
     "chapterContent": [
       "Once I met a woman who was a lifelong Christian. She had two sons who practiced yoga. She thought that was wonderful, but they arrogantly considered their beliefs to be superior to hers and told her that she was not doing enough for her spiritual salvation.",
       "No one has a right to condemn another person’s spiritual beliefs. No spiritual system is superior to another. Each one of us should have the philosophy and practices that work for us. We should be happy once we find it, we should help those who are interested in the spirituality we represent, but none of us should behave condescendingly toward others’ spirituality.",
@@ -2421,7 +2460,14 @@
   "169": {
     "chapterNumber": "169",
     "chapterTitle": "Armor",
-    "chapterQuote": [],
+    "chapterQuote": [
+      "Ripe fruit, crisp greens, live grain,",
+      "Vital roots, tender meat, spring water.",
+      "Growing essence nourishes your own.",
+      "Essence alloyed with breath makes you flexible but hard.",
+      "The sage’s body is armored.",
+      "The sage is impervious to death."
+    ],
     "chapterContent": [
       "Those who follow Tao speak of three treasures in the body: essence, breath, and spirit.",
       "Essence is the biochemical aspect of your body, nurtured by the food you eat, and regulated by the quality of your hormones. Therefore, all your food should be packed and glowing with energy. Eat food as close to its source as possible. Pray before you eat, for everything that you take, whether plant or animal, is living. You must consume to survive, but when you die, acknowledge that you will become food for others.",
@@ -2454,7 +2500,17 @@
   "171": {
     "chapterNumber": "171",
     "chapterTitle": "Altar",
-    "chapterQuote": [],
+    "chapterQuote": [
+      "Each day I forge my body into steel",
+      "And fold in bright strands of consciousness.",
+      "Piling up ripe fruit and fragrant flowers,",
+      "Lighting red candles and incense,",
+      "Serving tea, rice, and wine.",
+      "Anointing with aromatic oils,",
+      "Offering heart and bones,",
+      "The altar is my anvil, sun and moon the coals,",
+      "Discipline the hammer, lungs the bellows."
+    ],
     "chapterContent": [
       "Followers of Tao have private altars in their homes. The pious see an altar only for supplication; the skeptical see the altar as false and insincere. Actually, devotional effort is absolutely necessary for those beginning on the path.",
       "True spiritual cultivation begins with the premise that you already have a pure spirit and only need to clear away obfuscations. Thus one must work on both the physical and mental levels in order to achieve the quickest results. Such varied efforts need a strong center. By focusing on the altar as the platform for all practices, you will keep yourself strongly on your path. The outward acts then pile up like offerings after offerings, and the outward votive furniture becomes your means of memorializing your efforts. Then your body itself becomes a steel altar, an unshakable monument to spiritual devotion."
@@ -2534,7 +2590,17 @@
   "177": {
     "chapterNumber": "177",
     "chapterTitle": "Unfortunate",
-    "chapterQuote": [],
+    "chapterQuote": [
+      "An unfortunate one is a rootless ghost,",
+      "His walk a mad angel’s gait.",
+      "Insolent steps of one thrown from heaven",
+      "To toil in red dust,",
+      "As if he had not had enough",
+      "In a thousand previous lifetimes.",
+      "Where is his heart? Where is his soul?",
+      "To call this heaven’s will",
+      "Is a cheap answer."
+    ],
     "chapterContent": [
       "There was once a god who committed a crime. His punishment was to be thrown back to earth to suffer the misfortunes of being human.",
       "When you see those less fortunate than yourself, whether they are the homeless on the streets or simply the ugly and unpopular, can you be sure that they are not like that god flung back to this mad planet?",
@@ -2560,8 +2626,11 @@
     "chapterTitle": "War",
     "chapterQuote": [
       "Weapons are tools of ill omen",
+      "Wielded by the ignorant.",
       "If their use is unavoidable,",
-      "The greatest sorrow is to be a veteran,"
+      "The wise act with restraint.",
+      "The greatest sorrow is to be a veteran,",
+      "Witness to the atrocities of humanity."
     ],
     "chapterContent": [
       "If you hold a real weapon in your hand, you will feel its character strongly. It begs to be used. It is fearsome. Its only purpose is death, and its power is not just in the material from which it is made but also from the intention of its makers.",
@@ -2574,7 +2643,9 @@
     "chapterTitle": "Force",
     "chapterQuote": [
       "A sword is never sheathed",
-      "A good swordsman"
+      "Until it has tasted blood.",
+      "A good swordsman",
+      "Is seldom seen with a sword."
     ],
     "chapterContent": [
       "Many centuries ago, there was a wanderer who was constantly chased by assassins. He was the best swordsman in the country. His challengers wanted to overcome him and thereby establish their own fame. Although the swordsman had long ago repented his killing and had renounced his status, he was still considered the best.",
@@ -2681,7 +2752,9 @@
     "chapterTitle": "Caring",
     "chapterQuote": [
       "Don’t go out looking for good deeds to do,",
-      "If you meet someone who is suffering,"
+      "But if one comes your way, do not refuse.",
+      "If you meet someone who is suffering,",
+      "You must help them."
     ],
     "chapterContent": [
       "What good is self-cultivation and wisdom if you just keep it for yourself? Knowledge is meant to be used, and if you can use it on behalf of others, you should.",
@@ -3049,8 +3122,11 @@
     "chapterTitle": "Absolute",
     "chapterQuote": [
       "They say, “You are god.”",
+      "But everyone is.",
       "They say, “All is god.”",
-      "They say, “All is an illusion.”"
+      "Then why are there differences?",
+      "They say, “All is an illusion.”",
+      "But does that include god?"
     ],
     "chapterContent": [
       "Those who follow Tao declare that there is no evidence that a god created our world. They have not found any empirical proof, and they cannot accept the idea philosophically. They reason that god must be absolute and this means oneness, omnipotence, omniscience, and omnipresence. Naturally, anything separate and distinct would not satisfy this criteria. If there was a god and a world that god created, then there would be two things—and god could not then be considered absolute. If there were an absolute god, there could not be anything separate from god.",
@@ -3094,7 +3170,9 @@
     "chapterTitle": "Abundance",
     "chapterQuote": [
       "Sun in heaven.",
-      "Supreme success"
+      "Abundance in great measure.",
+      "Supreme success",
+      "In the midst of impermanence."
     ],
     "chapterContent": [
       "The midday sun in summer is the hottest and brightest of all. It symbolizes a zenith, a fulfillment, a period of great brightness. In the affairs of people, it stands for the combining of strength and clarity, which yields brilliance. When the times are in accord, abundance cannot be opposed.",
@@ -3147,10 +3225,15 @@
     "chapterQuote": [
       "They call her useless",
       "And yet push for achievement.",
+      "“I want a baby.”",
       "They bicker between themselves,",
       "And reproach her for being distant.",
+      "“My friends have so much fun.”",
       "They dwell on money,",
-      "And indenture her to loyalty."
+      "And indenture her to loyalty.",
+      "“I can’t stand this every day.”",
+      "She is innocent.",
+      "They have ambitions."
     ],
     "chapterContent": [
       "There was a girl who was both a good student and a good athlete. Her family did not find that to be enough. They pushed her to spend all her time studying or practicing for her next sport competition. Finally, she could stand it no further. She ran away.",
@@ -3165,7 +3248,8 @@
     "chapterQuote": [
       "A small boy drives",
       "A hundred ducks to the lake",
-      "With a tasseled stick:"
+      "With a tasseled stick:",
+      "A mass of excited white."
     ],
     "chapterContent": [
       "A small boy can command an entire flock of ducks with a slender stick. The ducks go contentedly down to the lake to play in the mud. In the end, of course, they end up as someone’s dinner.",
@@ -3179,7 +3263,10 @@
     "chapterTitle": "Composure",
     "chapterQuote": [
       "Although they may have to kill",
+      "Or suffer themselves to be killed,",
       "A person of composure remains dispassionate.",
+      "Nothing is ever destroyed,",
+      "Nothing is ever created.",
       "All is infinity."
     ],
     "chapterContent": [
@@ -3260,7 +3347,9 @@
     "chapterTitle": "Indifference",
     "chapterQuote": [
       "For a true master,",
-      "Is no different than"
+      "Sitting on a throne",
+      "Is no different than",
+      "Sitting on dirt."
     ],
     "chapterContent": [
       "A true master is indifferent to the ways of society. Ambition, knowledge, and religion are equally uninteresting. Why? Because all these things are in the realm of human definition.",
@@ -3288,8 +3377,17 @@
     "chapterTitle": "Repetition",
     "chapterQuote": [
       "My prayer beads are strung on my life span.",
+      "I am not allowed to skip a single bead:",
       "Sometimes the bead is a seed. Or a bone.",
+      "Or jade. Or dry blood. Or semen. Or crystal.",
+      "Or rotted wood. Or a sage’s relic. Or gold.",
+      "Or glass. Or a prism. Or iron. Or clay. Or an",
+      "eye. Or an egg. Or dung. Or a ball. Or a",
+      "stone. Or a peach. Or a bullet. Or a bubble.",
+      "Or lead. Or pure light.",
       "No matter what the next bead is, I must count it,",
+      "Perform my daily austerities.",
+      "Repeat. Repeat. Repeat.",
       "Until repetition becomes endurance."
     ],
     "chapterContent": [
@@ -3519,7 +3617,8 @@
     "chapterQuote": [
       "Chant one million times for world peace, they told me.",
       "Pray three times a day to end all wars.",
-      "Practice austerities to liberate all living beings."
+      "Practice austerities to liberate all living beings.",
+      "But the world’s miseries have never diminished."
     ],
     "chapterContent": [
       "Periodically, some religious group proclaims that if everyone would just do something like chant, some fundamental social problem would be solved. Claims have been made that spiritual devotion could affect wars, famine, disease, the economy, and overpopulation.",
@@ -4091,7 +4190,16 @@
   "276": {
     "chapterNumber": "276",
     "chapterTitle": "Moon",
-    "chapterQuote": [],
+    "chapterQuote": [
+      "Silver disk: Let me call you goddess—",
+      "You, with your mirrored face.",
+      "Tonight, of all nights, your shape is perfect,",
+      "Your presence sublime.",
+      "You know it too. You appear before the sun has even set,",
+      "Glorious without your cloak of night,",
+      "Gazing down in supreme splendor,",
+      "To make this dusty world pastoral."
+    ],
     "chapterContent": [
       "Tonight is the harvest moon. The queen of night is at her most perfect roundness, closer to us than at any other time of the year. She glows silver in an indigo sky.",
       "People celebrate this night for many reasons. For some, it is the time to enjoy the view of the moon, and they toast it with sweets, wine, and tea. For others, it is a time of relaxation and thanksgiving for the harvest.",
@@ -4275,7 +4383,12 @@
   "288": {
     "chapterNumber": "288",
     "chapterTitle": "Horizon",
-    "chapterQuote": [],
+    "chapterQuote": [
+      "Single line drawn from one ocular corner to the other.",
+      "White clouds firmly tethered to shadows.",
+      "What is close at hand must first appear on the horizon.",
+      "What is cast upon us always has a source."
+    ],
     "chapterContent": [
       "Life need not be the travesty of confusion and disorganization that it seems to be for so many people. When one feels this way, it is nearly always due to two things: Either one isn’t even looking, or one’s vantage point is too low.",
       "Those who follow Tao position themselves on high vantage points. Life never surprises them. Whatever is in their lives today, they foresaw many days before. Whatever is on the horizon, they take the time to prepare for. Such people are called wise, not because they have special abilities but because they take the care to view things from a high place.",
@@ -4338,6 +4451,9 @@
       "Dried lakes to cracked clay.",
       "Chill autumn brought little relief—",
       "Only frosted the devastation.",
+      "But with the early gentle rains,",
+      "The earth’s fissures softened",
+      "And desiccated plants began to dissolve.",
       "Slowly, balance comes once again."
     ],
     "chapterContent": [
@@ -4349,7 +4465,12 @@
   "293": {
     "chapterNumber": "293",
     "chapterTitle": "Interval",
-    "chapterQuote": [],
+    "chapterQuote": [
+      "Seven geese pierce straight line over frigid bay,",
+      "Intervals between them constantly equal,",
+      "Pointed wings slash as if joined to an axle:",
+      "Today is the ideal moment between yesterday and tomorrow."
+    ],
     "chapterContent": [
       "Every morning means a fresh start on things. If yesterday was trying and exhausting, today is a given opportunity to do something different. If yesterday was full of triumph and satisfaction, today is a free chance to go further. All too often, we wake up, think of our schedules, and assume that we must act according to the same dull script. We need not. If we find what is unique to each day, we will have freshness and the greatest fulfillment possible.",
       "Although we have talked about our relationship to Tao in terms of positioning and timing, the clear discerning of intervals is just as important. Geese keep a perfect distance between them to establish a dynamic equilibrium; so too must we fit in with the intervals of a day’s events. If we, like the geese, act in unison with these moments, with each other, and with the season, then we will be in total concert with Tao.",
@@ -4375,7 +4496,12 @@
   "295": {
     "chapterNumber": "295",
     "chapterTitle": "Solutions",
-    "chapterQuote": [],
+    "chapterQuote": [
+      "Don’t be afraid to explore;",
+      "Without exploration there are no discoveries.",
+      "Don’t be afraid of partial solutions;",
+      "Without the tentative there is no accomplishment."
+    ],
     "chapterContent": [
       "Indecision and procrastination are corrosive habits. Those who wait for every little thing to be perfect before they embark on a project or who dislike the compromise of a partial solution are among the least happy. Ideal circumstances are seldom given to anyone for an undertaking. Instead there is uncertainty in every situation. The wise are those who can wrest great advantage from circumstances opaque to everyone else.",
       "Wanting everything in life to be perfect before you take action is like wanting to reach a destination without travel. For those who follow Tao, travel is every bit as important as the destination. One step after another: That is still central to the wisdom of Tao.",
@@ -4399,7 +4525,13 @@
   "297": {
     "chapterNumber": "297",
     "chapterTitle": "Core",
-    "chapterQuote": [],
+    "chapterQuote": [
+      "What is the difference between a monk and a husband?",
+      "What is the difference between a priest and a layperson?",
+      "I accept that this world is terrible and full of suffering.",
+      "And I also enjoy happiness when it comes to me.",
+      "As long as I am with Tao, distinctions are superfluous."
+    ],
     "chapterContent": [
       "A spiritual initiate should not feel smug. They have no greater chance of enlightenment than ordinary people. An ordinary person shouldn’t look down on the holy aspirant; everyday life is so full of distractions that finding spirituality is not easy. Frankly, neither being a religious initiate nor being a layperson is the deciding factor in whether a person finds Tao or not. Identities only get in the way.",
       "I do not need to pretend that I am anyone other than myself. I do not need to feel insecure about my perceptions. The self-cultivation that I undertake is to perfect who I am, not to become someone other than who I am.",
@@ -4412,9 +4544,13 @@
     "chapterTitle": "Stages",
     "chapterQuote": [
       "Unless you are pious,",
+      "You cannot gain a foothold in Tao.",
       "Unless you go beyond rules,",
+      "You haven’t gained the middle.",
       "Unless you can be creative,",
-      "Unless the road always stretches out before you,"
+      "You aren’t traversing Tao.",
+      "Unless the road always stretches out before you,",
+      "You are not walking the true Tao."
     ],
     "chapterContent": [
       "When people start on a spiritual path, they are anxious to learn all the rules. This is understandable, even necessary. Often we need stern measures to set ourselves right.",
@@ -4458,7 +4594,11 @@
   "301": {
     "chapterNumber": "301",
     "chapterTitle": "Oneness",
-    "chapterQuote": [],
+    "chapterQuote": [
+      "If I break down the walls, I will be surrounded by the garden.",
+      "If I break the levee, water will inundate me.",
+      "Meditation is not to be separated from life."
+    ],
     "chapterContent": [
       "The task of following Tao is to cease all distinctions between the self and the outside world. It is only a matter of convenience that we label things inside and outside, subjective and objective. Indeed, it is only at elementary stages that we should talk of a Tao to follow. For true enlightenment is the realization not that there is a Tao to follow but that we ourselves are Tao.",
       "That understanding comes after a simple breaking down of a wall, a shattering of the mistaken notion that there is something inherent in this life that divides us from Tao. Once the wall is broken, we are inundated by Tao. We are Tao.",
@@ -4649,8 +4789,12 @@
     "chapterTitle": "Soaring",
     "chapterQuote": [
       "For years, I’ve practiced ritual.",
+      "It’s dead now.",
       "For years, I’ve practiced meditation.",
-      "Finally, there is only soaring"
+      "It’s dull now.",
+      "Finally, there is only soaring",
+      "Like an ectoplasmic ribbon",
+      "Floating over the sea."
     ],
     "chapterContent": [
       "When one is mature spiritually, one no longer needs the structure of ritual or formal meditations. This is not to say that structure was unnecessary, for without it one could not stand at this vantage point. But once one attains a level where one has completely internalized the lessons of structure, one can freely improvise in fresh and valid forms.",
@@ -4837,7 +4981,10 @@
   "327": {
     "chapterNumber": "327",
     "chapterTitle": "Colorless",
-    "chapterQuote": [],
+    "chapterQuote": [
+      "What’s the difference between the erotic and spiritual?",
+      "Temples and lovers are equally gaudy."
+    ],
     "chapterContent": [
       "What’s the difference between eroticism and spirituality? Both refer to ecstasy. Both lead to transcendence of the self. Both lead to unification with a larger order. Both are vulnerable to the excesses of perversion, lust, sadism, obsession, and madness. Eroticism and spirituality—the two deepest endeavors of humanity are twins.",
       "Both eroticism and spirituality mean intense involvement in the diversity and color of the world. But there is a higher order, a state where one is holiness itself. Then nothing of the world of color matters to you anymore. The pleasures of the couch will mean nothing. Neither will the glories of the ascetic’s efforts mean anything. Only by entering the colorless state of pure, blinding light can there be freedom from the twins.",
@@ -4862,7 +5009,12 @@
   "329": {
     "chapterNumber": "329",
     "chapterTitle": "Umbilicus",
-    "chapterQuote": [],
+    "chapterQuote": [
+      "People consider the navel a vestigial nub",
+      "And think nourishment only comes through the mouth.",
+      "Not so. Tao is the great mother,",
+      "And vitality untold lies in the region of the umbilicus."
+    ],
     "chapterContent": [
       "The old books call Tao the great mother. Tao provides for us as a mother would. It shelters us, nourishes us, makes our life possible. We are literally tied to the vitality of Tao.",
       "Lying dormant inside us are points of concentration. Most people are unaware that concentration on these points will yield specific forces, cure ailments, alter consciousness, and still the mind. Like a treasure buried in the ruins of a sacred place, these spots only await discovery before they give their owner wondrous powers.",
@@ -4906,7 +5058,10 @@
   "332": {
     "chapterNumber": "332",
     "chapterTitle": "Dovetail",
-    "chapterQuote": [],
+    "chapterQuote": [
+      "“Measure twice, cut once,” said the old craftsman.",
+      "Only careful planning and patient skill make a dovetail."
+    ],
     "chapterContent": [
       "Early cabinetmakers were faced with the problem of joining two pieces of wood together at a right angle so that they would bear the stress not only of use but of the weather as well. Especially in places where the summers are hot and humid and the winters are dry and cold, a plank of wood might change its dimensions by a quarter- to a half-inch. Quite enough to make joints fall apart and drawers stick!",
       "The dovetail joint holds because the two interlocked pieces of wood expand and contract at the same rate. The direction of the pull is against the locking of the joint. The by-product of all this fine craft is a joint so precisely fitted that it is a thing of beauty in and of itself.",
@@ -4992,7 +5147,14 @@
   "338": {
     "chapterNumber": "338",
     "chapterTitle": "Expression",
-    "chapterQuote": [],
+    "chapterQuote": [
+      "There’s nothing to paint anymore.",
+      "We’ve seen everything from the classical to the absurd.",
+      "There’s nothing to write anymore.",
+      "As many books are shredded as read.",
+      "There’s nothing to sing anymore.",
+      "The once avant-garde is now background music."
+    ],
     "chapterContent": [
       "In a world where expression seems futile, it is hard to maintain creativity. But creativity is a primal impulse. Cave people painted on walls; everyone’s house has some image on display. Primitive scribes wrote records of their experiences; people still keep diaries. Early shamans sang; we still live with music. We cannot abandon creative expression in our daily lives, though it seems hard to come up with something new.",
       "The only way to have fresh expression is to go deep within. In a sense, today’s extreme pluralism eliminates the obligation to do the same as others. At one time, artists, priests, writers, musicians, and craftsmen were obligated to their feudal lords. Today we are not constrained by hierarchical standards. We are free to commune directly with our inner callings.",
@@ -5037,7 +5199,8 @@
     "chapterQuote": [
       "“Be aware of Tao.”",
       "Isn’t that simple?",
-      "No—let’s reduce more:"
+      "No—let’s reduce more:",
+      "“Be Tao.”"
     ],
     "chapterContent": [
       "Why go through all this rigmarole? Why endlessly examine scriptures and debate obscure actions of long-dead saints and equally dead words? We need to affirm experience over words, individuality over dogma.",
@@ -5049,7 +5212,13 @@
   "342": {
     "chapterNumber": "342",
     "chapterTitle": "Manifestation",
-    "chapterQuote": [],
+    "chapterQuote": [
+      "Watching a performance of warriors, I was told,",
+      "“This fighter’s tradition is six hundred years old.”",
+      "And I saw a performance so mired in ritual—",
+      "As if nothing valid had happened in six hundred years.",
+      "We must honor the classical without being irrelevant."
+    ],
     "chapterContent": [
       "Followers of Tao place great value on ancient traditions. A living and valid tradition is like a river with a long course: It brings freshness, richness, and fertility. Just as a drought-ridden place cannot bring forth sweet fruit, those without tradition have less support for their endeavors.",
       "What makes a tradition alive? The adherents must be fully capable of manifesting the greatness of their tradition in contemporary settings. If someone says that they are expert in traditional medicine, then they must be able to heal others today. If someone says that they are capable in traditional calligraphy, then they must be able to write beautiful words today. If someone says that they have mastered esoteric spiritual traditions, then they must be able to manifest the power of that spirit today.",
@@ -5087,7 +5256,9 @@
     "chapterTitle": "Worthwhile",
     "chapterQuote": [
       "Inside me, it was quiet all day:",
+      "I waited until midnight for a sound.",
       "Outside me, it was noisy all day:",
+      "I waited all night for silence.",
       "Tao’s power is sound.",
       "Tao’s potential is silence."
     ],
@@ -5100,7 +5271,20 @@
   "346": {
     "chapterNumber": "346",
     "chapterTitle": "Purpose",
-    "chapterQuote": [],
+    "chapterQuote": [
+      "Suddenly, things snap into focus.",
+      "I’ve been pursuing unity all my life,",
+      "But could only glimpse the monstrous vision in fragments;",
+      "It has haunted me for years.",
+      "Each time I sighted it, I struggled to make it concrete.",
+      "At first, it seemed I only had a sculptor’s yard of unfinished figures—",
+      "Then it slowly began to make sense,",
+      "Gathered from glimpses and inferences.",
+      "More and more, this mysterious life comes together.",
+      "It may take years more to reveal the whole.",
+      "That’s all right.",
+      "I’m prepared to go the distance."
+    ],
     "chapterContent": [
       "One’s life’s destiny is not easily revealed. It’s too big. You may certainly set your sights early, but you will still have to make changes and adjustments as your true purpose is clarified. When it does begin to come together, there is a tremendous feeling of assurance.",
       "Then with each step upon the path of Tao, your certainty rings from peak to peak."
@@ -5192,7 +5376,14 @@
   "352": {
     "chapterNumber": "352",
     "chapterTitle": "Template",
-    "chapterQuote": [],
+    "chapterQuote": [
+      "Must you see nature as a machine?",
+      "Is your only learning chemistry, physics, and ontology?",
+      "What if poetry was your template for life?",
+      "Can’t you know Tao by the feeling of mud in your sandals?",
+      "Thus are the sages called silly:",
+      "They have given up their prejudices."
+    ],
     "chapterContent": [
       "The world appears as you perceive it. It is not that your perceptions are wholly shaped by a so-called objective world. The habit of interpretation is interactive; we do things to test our hypotheses until we have created a complicated web of sensory input and centrifugal manipulation. By the time we are “mature,” we have created innumerable layers of interpretation and biased perception that become our templates for living. Of course, we could have some fun with this situation. We could change the templates that we use to interact with the world.",
       "What if we used poetry instead of science? What if we substituted spirituality for politics? The results of such experimentation are often fresh, happy, and unusual. Unfortunately, when carried to their logical conclusions, they are just as futile as any other method. Templates are essential for beginners, a hindrance for veterans. True followers of Tao give up all templates and are without prejudices. They return to the actions of infants. Thus they are called silly. But because they view the world with their inner eye, they transcend all the sorrows of life."
@@ -5208,7 +5399,8 @@
     "chapterNumber": "354",
     "chapterTitle": "Manure",
     "chapterQuote": [
-      "Manure makes excellent fertilizer."
+      "Manure makes excellent fertilizer.",
+      "Life has ordure."
     ],
     "chapterContent": [
       "When you water your plants, you sometimes have to feed them. Manure is an excellent way to feed plants.",
@@ -5222,7 +5414,8 @@
     "chapterTitle": "Winter",
     "chapterQuote": [
       "A homeless man dies in the gutter.",
-      "A tree cracks in the cold:"
+      "A tree cracks in the cold:",
+      "A shocking sound."
     ],
     "chapterContent": [
       "At the winter solstice, the day is shortest of all and night is longest. It can also be the time of bitter cold. The wind blows with a frigid ferocity, cutting all before it. Snow and ice become deadly. Those who are homeless die of exposure. Even the mightiest of trees can split from the drop in temperature.",
@@ -5235,7 +5428,10 @@
   "356": {
     "chapterNumber": "356",
     "chapterTitle": "Attachment",
-    "chapterQuote": [],
+    "chapterQuote": [
+      "The monk shaved his head as a symbol of renunciation,",
+      "But now he goes nowhere without his little cap."
+    ],
     "chapterContent": [
       "It’s funny to see someone who says that he is a renunciate call childishly for his few meager possessions. Why renounce the world when you really cannot? Before you cut your hair, ask yourself if you can afford to give up your attachments. Before you give up your freedom, ask yourself if you can submit to monastic order. Before you say that you are spiritual, ask yourself if you can give up worldly desires.",
       "I am not trying to make fun of monks here. I am observing that every path in life has its own sacrifices and its own hardships. Before you embark on a path, search yourself thoroughly and investigate the path completely. Then you will dispel misgivings. You will also reduce the chance of hypocrisy.",
@@ -5245,7 +5441,14 @@
   "357": {
     "chapterNumber": "357",
     "chapterTitle": "Rusticity",
-    "chapterQuote": [],
+    "chapterQuote": [
+      "The laughter of country folk is uncomplicated.",
+      "The laughter of city folk is full of dark nuance.",
+      "The ambition of country folk is to grow their crops well.",
+      "The ambition of city folk is to overcome others.",
+      "The joy of country folk is to participate in the seasons.",
+      "The joy of city folk is to achieve sophistication."
+    ],
     "chapterContent": [
       "When you see urban people in the countryside, you can often hear one of them making fun of the simplicity of the country folk. After all, we have so many words to mock them with: bumpkin, yokel, hick, hayseed, peasant, clodhopper, hillbilly, lout, oaf, cabbagehead, simpleton, rube. If one stops to consider, are these descriptions worse than neurotic, compulsive, stressed, ambitious, devious, shrewd, obsessive, money-hungry, or nouveau riche?",
       "Those who follow Tao celebrate country living over the difficult existence in the cities. While we certainly cannot go back to an exclusively agrarian way of living, it is beneficial for us to consider the agrarian ideal. City living is a mental construct that collapses once we cease to make it real.",
@@ -5255,7 +5458,12 @@
   "358": {
     "chapterNumber": "358",
     "chapterTitle": "Collectivity",
-    "chapterQuote": [],
+    "chapterQuote": [
+      "Ancient societies were tribal;",
+      "The group did the thinking.",
+      "Current society is splintered;",
+      "The individual must be complex."
+    ],
     "chapterContent": [
       "People from old traditions were often less complicated because they had the advantage of a complete culture that did the thinking for them. Everyone had a role that fit the whole. Individuals could concentrate on fulfilling their place, confident that other needs would be met by the collective.",
       "The specialization of modem times calls for individual roles that do not necessarily form a whole. We often lose sight even of what the whole is. We have commentators, we have critics, but we do not have leaders. We celebrate egalitarianism and consensus, but it is phony: a chaos of voices rather than a democracy; a populace of individuals pursuing their own ends rather than a collective.",
@@ -5284,7 +5492,10 @@
   "360": {
     "chapterNumber": "360",
     "chapterTitle": "Ending",
-    "chapterQuote": [],
+    "chapterQuote": [
+      "A shadow edge is never on the edge.",
+      "The time to contemplate the ending is before the ending."
+    ],
     "chapterContent": [
       "Five days left to this year. There will be an ending. And there will be a new beginning. That is Tao.",
       "If you look at a vase by a window and examine what makes it appear round, you will see a shadow on it. That is the shadow edge. It is the darkest shadow on that face. It is never on the edge: The main light source strikes the vase on one side, and reflected light comes from the other.",

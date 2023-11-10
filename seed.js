@@ -22,7 +22,7 @@ const processChapter = item => {
 
       const quoteDiv = $('div.blockquote')
       const chapterQuote = quoteDiv
-        .find('p.bq')
+        .find('p')
         .map((index, element) => $(element).text())
         .get()
 
