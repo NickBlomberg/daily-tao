@@ -1,3 +1,4 @@
+import { Analytics } from '@vercel/analytics/react'
 import './globals.css'
 
 import { Montserrat } from 'next/font/google'
@@ -15,6 +16,7 @@ export default function RootLayout({ children }) {
         className={`${montserrat.className} min-h-screen bg-battleship-gray-300`}
       >
         {children}
+        <Analytics />
       </body>
     </html>
   )
