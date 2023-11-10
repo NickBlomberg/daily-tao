@@ -1,3 +1,7 @@
+import { Nothing_You_Could_Do } from 'next/font/google'
+
+const titleFont = Nothing_You_Could_Do({ subsets: ['latin'], weight: '400' })
+
 import data from '../data.json'
 
 const currentDayNumber = Math.ceil(
@@ -11,12 +15,12 @@ const { chapterNumber, chapterTitle, chapterQuote, chapterContent } =
 export default function Home() {
   return (
     <main className='flex flex-col items-center gap-6 px-3 pt-8 md:pt-32'>
-      <h1 className='text-2xl font-bold'>{chapterTitle}</h1>
-      <div className='italic'>
+      <h1 className={`text-4xl font-bold ${titleFont.className}`}>
+        {chapterTitle}
+      </h1>
+      <div className='text-center text-sm italic leading-6 tracking-wider text-battleship-gray-500'>
         {chapterQuote.map((line, key) => (
-          <p key={key} className='text-gray-500'>
-            {line}
-          </p>
+          <p key={key}>{line}</p>
         ))}
       </div>
 
