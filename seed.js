@@ -8,7 +8,7 @@ const book = new EPub(EPUB_FILE_PATH)
 
 const data = {}
 
-const processChapter = (item) => {
+const processChapter = item => {
   return new Promise((resolve, reject) => {
     book.getChapter(item.id, (error, text) => {
       if (error) {
@@ -25,13 +25,11 @@ const processChapter = (item) => {
         .find('p.bq')
         .map((index, element) => $(element).text())
         .get()
-        .join('<br />')
 
       const chapterContent = quoteDiv
         .nextAll('p')
         .map((index, element) => $(element).text())
         .get()
-        .join('<br />')
 
       resolve({
         chapterNumber,
@@ -82,6 +80,6 @@ main()
     const OUTPUT_FILE = 'data.json'
     fs.writeFileSync(OUTPUT_FILE, JSON.stringify(data, null, 2), 'utf-8')
   })
-  .catch((error) => {
+  .catch(error => {
     console.error('Error processing EPUB:', error)
   })
