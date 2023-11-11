@@ -13,6 +13,9 @@ function CustomChevron({ direction, chapterNumber }) {
       }`}
     >
       {icon}
+      <span class='sr-only'>
+        {direction === 'left' ? 'Go to previous chapter' : 'Go to next chapter'}
+      </span>
     </Link>
   )
 }
