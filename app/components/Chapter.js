@@ -1,5 +1,7 @@
 import React from 'react'
 import { Nothing_You_Could_Do } from 'next/font/google'
+import ChapterQuote from './ChapterQuote'
+import ChapterContent from './ChapterContent'
 
 const titleFont = Nothing_You_Could_Do({ subsets: ['latin'], weight: '400' })
 
@@ -9,19 +11,9 @@ function Chapter({ chapterTitle, chapterQuote, chapterContent }) {
       <h1 className={`text-4xl font-bold ${titleFont.className}`}>
         {chapterTitle}
       </h1>
-      <div className='text-center text-sm italic leading-6 tracking-wider text-battleship-gray-500'>
-        {chapterQuote.map((line, key) => (
-          <p key={key}>{line}</p>
-        ))}
-      </div>
 
-      <div className='max-w-prose'>
-        {chapterContent.map((paragraph, key) => (
-          <p key={key} className='pb-3'>
-            {paragraph}
-          </p>
-        ))}
-      </div>
+      <ChapterQuote value={chapterQuote} />
+      <ChapterContent value={chapterContent} />
     </main>
   )
 }
