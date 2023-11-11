@@ -24,7 +24,7 @@ function Chapter({
       <ChapterQuote value={chapterQuote} />
       <ChapterContent value={chapterContent} />
 
-      <nav className='flex w-screen justify-between px-8'>
+      <nav className='flex w-screen justify-between px-8 pb-6'>
         <CustomChevron direction='left' chapterNumber={prevChapterNumber} />
         <CustomChevron direction='right' chapterNumber={nextChapterNumber} />
       </nav>
