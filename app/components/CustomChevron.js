@@ -8,7 +8,7 @@ function CustomChevron({ direction, chapterNumber }) {
   return (
     <Link
       href={chapterNumber.toString()}
-      className={`absolute bottom-3 text-battleship-gray-400 md:top-1/2 ${
+      className={`text-battleship-gray-400 md:absolute md:bottom-3 md:top-1/2 ${
         direction === 'left' ? 'left-3' : 'right-3'
       }`}
     >
