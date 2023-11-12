@@ -15,6 +15,9 @@ function Chapter({
   const prevChapterNumber = parseInt(chapterNumber) - 1
   const nextChapterNumber = parseInt(chapterNumber) + 1
 
+  const previousChapterExists = prevChapterNumber > 0
+  const nextChapterExists = nextChapterNumber < 366
+
   return (
     <main className='flex h-screen flex-col items-center gap-6 px-3 pt-8 md:justify-center'>
       <h1 className={`text-4xl font-bold ${titleFont.className}`}>
@@ -25,8 +28,13 @@ function Chapter({
       <ChapterContent value={chapterContent} />
 
       <nav className='flex w-screen justify-between px-8 pb-6'>
-        <CustomChevron direction='left' chapterNumber={prevChapterNumber} />
-        <CustomChevron direction='right' chapterNumber={nextChapterNumber} />
+        {previousChapterExists && (
+          <CustomChevron direction='left' chapterNumber={prevChapterNumber} />
+        )}
+
+        {nextChapterExists && (
+          <CustomChevron direction='right' chapterNumber={nextChapterNumber} />
+        )}
       </nav>
     </main>
   )
