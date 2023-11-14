@@ -1,3 +1,5 @@
+'use client'
+
 import Chapter from './components/Chapter'
 
 import data from '../data.json'
